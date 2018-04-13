@@ -1,0 +1,6 @@
+D:\Dropbox\Dropbox\Spring 2018\Intro to C#\Program 7\Program-7\Program-7\bin\Debug\Program-7.exe.config
+D:\Dropbox\Dropbox\Spring 2018\Intro to C#\Program 7\Program-7\Program-7\bin\Debug\Program-7.exe
+D:\Dropbox\Dropbox\Spring 2018\Intro to C#\Program 7\Program-7\Program-7\bin\Debug\Program-7.pdb
+D:\Dropbox\Dropbox\Spring 2018\Intro to C#\Program 7\Program-7\Program-7\obj\Debug\Program-7.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\Spring 2018\Intro to C#\Program 7\Program-7\Program-7\obj\Debug\Program-7.exe
+D:\Dropbox\Dropbox\Spring 2018\Intro to C#\Program 7\Program-7\Program-7\obj\Debug\Program-7.pdb
